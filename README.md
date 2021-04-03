@@ -4,8 +4,8 @@
 
 ## Check it out: www.csatopanzio.ro
 
-The property is in Joseni, Harghita county, in Romania.
-For reservations call the phone numbers listed on the webpage, or seach for us on Booking.com\
+The property is in Joseni, Harghita county, Romania.
+For reservations call the phone numbers listed on the webpage, or search for us on Booking.com\
 \
 2021, Spring
 
