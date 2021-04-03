@@ -2,7 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/scottydocs/README-template.md)
 
-## Chek it out: www.csatopanzio.ro
+## Check it out: www.csatopanzio.ro
 
 The property is in Joseni, Harghita county, in Romania.
 For reservations call the phone numbers listed on the webpage, or seach for us on Booking.com\
