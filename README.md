@@ -24,4 +24,4 @@ Contributions are what make the open source community such an amazing place to b
 - Benedek Balázs - [LinkedIn Profile](https://www.linkedin.com/in/balazs-benedek-009322183/)
 - E-mail: benedekbalazs1999@gmail.com
 - Project Link: [GitHub - Csató Panzió](https://github.com/blasio99/CsatoPanzio)
-- WEBSITE: [Csató](https://github.com/blasio99/CsatoPanzio)
+- WEBSITE: [Csató](http://csatopanzio.ro/)
