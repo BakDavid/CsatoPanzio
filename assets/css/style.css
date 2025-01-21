@@ -1271,6 +1271,15 @@ section {
   font-size: 14px;
 }
 
+.contact .info .phone-number {
+  padding: 0 0 20px 42px;
+  line-height: 28px;
+  font-size: 14px;
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
 .contact .php-email-form .validate {
   display: none;
   color: red;

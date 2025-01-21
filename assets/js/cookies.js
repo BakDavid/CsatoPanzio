@@ -16,13 +16,13 @@ if (!document.cookie.includes("cookiesAccepted=true") && !document.cookie.includ
   });
   
   // When the user rejects cookies
-  document.getElementById("rejectCookies").addEventListener("click", function () {
-    // Set a cookie for rejection with a 30-day expiration
-    document.cookie = "cookiesRejected=true; max-age=" + 60 * 60 * 24 * 30 + "; path=/";
+  // document.getElementById("rejectCookies").addEventListener("click", function () {
+  //   // Set a cookie for rejection with a 30-day expiration
+  //   document.cookie = "cookiesRejected=true; max-age=" + 60 * 60 * 24 * 30 + "; path=/";
   
-    // Hide the consent banner
-    document.getElementById("cookieConsent").style.display = "none";
-  });
+  //   // Hide the consent banner
+  //   document.getElementById("cookieConsent").style.display = "none";
+  // });
   
   // Function to initialize Google Analytics
   function initializeGoogleAnalytics() {
